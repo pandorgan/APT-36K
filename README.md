@@ -23,4 +23,4 @@
 ## Results
 We show some examples of our test results on RefMatte test set and RefMatte-RW100 by our CLIPIMat given text inputs and the images under both prompt- and expression- based setting.
 
-<img src="demo1.jpg" width="50%">
+<img src="demo.jpg" width="50%">
