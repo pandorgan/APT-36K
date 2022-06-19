@@ -21,6 +21,6 @@
 
 
 ## Results
-We show some examples of our test results on RefMatte test set and RefMatte-RW100 by our CLIPIMat given text inputs and the images under both prompt- and expression- based setting.
+Here we show some examples from the APT-36K dataset. The motion trajectory of key points of the animal's body in 15 consecutive frames is shown in the third row of images.
 
-<img src="demo.jpg" width="50%">
+<img src="demo.jpg" width="90%">
