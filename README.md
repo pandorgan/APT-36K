@@ -24,6 +24,6 @@
 ## Demo
 Here we show some examples from the APT-36K dataset. The motion trajectory of key points of the animal's body in 15 consecutive frames is shown in the third row of images.
 
-<img src="demo.jpg" width="110%">
+<img src="demo/img.png" width="110%">
 
 ## Statement
