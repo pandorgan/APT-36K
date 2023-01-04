@@ -12,7 +12,7 @@
   <a href="#statement">Statement</a>
 </p>
 
-<img src="demo/demo.gif" width="25%">
+<img src="demo/demo.gif" width="25%"><img src="demo/demo1.gif" width="25%"><img src="demo/demo2.gif" width="25%"><img src="demo/demo3.gif" width="25%">
 
 
 ## Introduction
