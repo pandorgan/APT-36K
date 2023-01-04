@@ -46,4 +46,12 @@ Here we show some examples from the APT-36K dataset. The motion trajectory of ke
   volume={abs/2206.05683}
 }
 ```
+<p align="justify">This project is under MIT licence.</p>
+
+## Relevant Projects
+
+[1] <strong>AP-10K: A Benchmark for Animal Pose Estimation in the Wild, Neurips, 2021</strong> | [Paper](https://arxiv.org/abs/2108.12617) | [Github](https://github.com/AlexTheBad/AP-10K)
+<br><em>&ensp; &ensp; &ensp;Hang Yu<sup>&#8727;</sup>, Yufei Xu<sup>&#8727;</sup>, Jing Zhang, Dacheng Tao</em>
+
+
 
