@@ -21,6 +21,8 @@
 ## APT-36k
 <p align="justify"> The goal of <strong>APT-36K</strong> is to provide a large-scale benchmark for animal pose estimation and tracking in real-world scenarios, which has been rarely explored in prior art. To this end, we resort to real-world video websites, i.e., YouTube, and carefully collect and filter <strong>2,400</strong> video clips covering <strong>30</strong> different animal species from different scenes, e.g., zoo, forest, and desert. Then we manually set the frame sampling rate for each video to ensure there are noticeable movement and posture differences for each animal in the sub-sampled video clips. Specifically, each clip contains <strong>15</strong> frames after the sampling process.The whole data collection, cleaning, annotation, and check process takes about <strong>2,000</strong> person-hours. A total of <strong>36,000</strong> images are finally labeled, following the COCO labeling format. There are typically <strong>17</strong> keypoints labeled for each animal instance, including two eyes, one nose, one neck, one tail, two shoulders, two elbows, two knees, two hips, and four paws.</p>
 
+<img src="samples/table1.png" width="110%">
+
 ## Demo
 Here we show some examples from the APT-36K dataset. The motion trajectory of key points of the animal's body in 15 consecutive frames is shown in the third row of images.
 
