@@ -34,3 +34,16 @@ Here we show some examples from the APT-36K dataset. The motion trajectory of ke
 <img src="demo/img.png" width="110%">
 
 ## Statement
+
+<p align="justify">If you are interested in our work, please consider citing the following:</p>
+
+```
+@article{Yang2022APT36KAL,
+  title={APT-36K: A Large-scale Benchmark for Animal Pose Estimation and Tracking},
+  author={Yuxiang Yang and Junjie Yang and Yufei Xu and Jing Zhang and Long Lan and Dacheng Tao},
+  journal={ArXiv},
+  year={2022},
+  volume={abs/2206.05683}
+}
+```
+
