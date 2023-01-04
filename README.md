@@ -12,6 +12,7 @@
   <a href="#statement">Statement</a>
 </p>
 
+<img src="demo/demo.gif" width="25%">
 
 
 ## Introduction
