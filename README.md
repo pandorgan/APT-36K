@@ -23,6 +23,9 @@
 
 <img src="samples/table1.png" width="110%">
 
+
+<p align="justify"> We also calculate the distributions of the keypoint motion, IOU between tracked bounding boxes in adjacent frames, and the aspect ratio of the annotated bounding boxes in our APT-36K dataset. As shown in Figure 2 (a), the motion distribution and average motion distance vary a lot for different keypoints, e.g., the average motion distance of paws is over 50 pixels, which is much larger than that of eyes or necks (about 35 pixels). Moreover, the motion magnitudes of shoulder, knee, and hips lie between those of eyes and paws, which is in line with the movement characteristics of four-leg animals. Besides, most of the instances have small IOU scores between their tracked bounding boxes in adjacent frames, implying large motion is very common in APT-36K, as demonstrated in Figure 2 (b). It can also be observed from Figure 2 (c) that the aspect ratio of the bounding box varies a lot from less than 0.4 to more than 3.1. It is because APT-36K contains diverse animals with different actions, e.g., running rabbits and climbing monkeys. These results illustrate the diversity of APT-36K.</p>
+
 ## Demo
 Here we show some examples from the APT-36K dataset. The motion trajectory of key points of the animal's body in 15 consecutive frames is shown in the third row of images.
 
