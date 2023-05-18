@@ -2,7 +2,7 @@
 <p align="center">
 <a href="https://arxiv.org/abs/2206.05683"><img  src="https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg" ></a>
 
-<h4 align="center">This is the official repository of the paper <a href="https://arxiv.org/abs/2206.05683">APT-36K: A Large-scale Benchmark for Animal Pose Estimation and Tracking</a>.</h4>
+<h4 align="center">This is the official repository of [NeurIPS'23] <a href="https://arxiv.org/abs/2206.05683">APT-36K: A Large-scale Benchmark for Animal Pose Estimation and Tracking</a>.</h4>
 <h5 align="center"><em>Yuxiang Yang, Junjie Yang, Yufei Xu, Jing Zhang, Long Lan, Dacheng Tao</em></h5>
 
 <p align="center">
