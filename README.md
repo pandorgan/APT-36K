@@ -45,10 +45,13 @@ click here if you were interested: [APTv2](https://github.com/ViTAE-Transformer/
 <p align="justify">If you are interested in our work, please consider citing the following:</p>
 
 ```
-@inproceedings{yangapt,
-  title={APT-36K: A Large-scale Benchmark for Animal Pose Estimation and Tracking},
+@article{yang2022apt,
+  title={Apt-36k: A large-scale benchmark for animal pose estimation and tracking},
   author={Yang, Yuxiang and Yang, Junjie and Xu, Yufei and Zhang, Jing and Lan, Long and Tao, Dacheng},
-  booktitle={Thirty-sixth Conference on Neural Information Processing Systems Datasets and Benchmarks Track}
+  journal={Advances in Neural Information Processing Systems},
+  volume={35},
+  pages={17301--17313},
+  year={2022}
 }
 ```
 <p align="justify">This project is under MIT licence.</p>
