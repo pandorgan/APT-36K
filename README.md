@@ -33,6 +33,13 @@ Here we show some examples from the APT-36K dataset. The motion trajectory of ke
 
 <img src="demo/img.png" width="110%">
 
+## APTv2
+<p align="justify">APTv2 comprises 2,749 video clips filtered and collected from 30 distinct animal species. Each video clip includes 15 frames, culminating in a total of 41,235 frames. Following meticulous  manual  annotation  and  stringent  verification,  we provide high-quality keypoint and tracking annotations for a total of 84,611 animal instances, split into easy and hard subsets based on the number of instances that exists in the frame.</p>
+
+click here if you were interested: [APTv2](https://github.com/ViTAE-Transformer/APTv2)
+
+<img src="demo/chart.png" width="110%">
+
 ## Statement
 
 <p align="justify">If you are interested in our work, please consider citing the following:</p>
@@ -50,6 +57,4 @@ Here we show some examples from the APT-36K dataset. The motion trajectory of ke
 
 [1] <strong>AP-10K: A Benchmark for Animal Pose Estimation in the Wild, Neurips, 2021</strong> | [Paper](https://arxiv.org/abs/2108.12617) | [Github](https://github.com/AlexTheBad/AP-10K)
 <br><em>&ensp; &ensp; &ensp;Hang Yu<sup>&#8727;</sup>, Yufei Xu<sup>&#8727;</sup>, Jing Zhang, Dacheng Tao</em>
-
-
 
